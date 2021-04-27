@@ -3,6 +3,7 @@
 ## **1. My name is Gleb Ustsinau.**
 ## **2. Contacts for communication:**
 ## - mail: gleb4ikq@gmail.com
+## - [Linkedin](https://www.linkedin.com/in/gleb-pishchalo-19a89a193/)
 ## **3. I want to be an android developer. I have always liked writing code and now I would like to turn it into a hobby into a way to make money. I hope that this courses help me to become who I want to be.**
 ## **4. Skills:**
 ## - C# Fundamentals + frameworks.
